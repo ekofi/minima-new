@@ -1,10 +1,11 @@
 ---
 id: 196
-title: 'Single Service'
-date: '2022-02-04T11:41:03+00:00'
+title: "Single Service"
+date: "2022-02-04T11:41:03+00:00"
 author: admin
 layout: page
-guid: 'https://atanar1.claudeserv.host/?page_id=196'
+permalink: /single-service/
+guid: "https://atanar1.claudeserv.host/?page_id=196"
 ---
 
 <style>/*! elementor - v3.5.5 - 03-02-2022 */
@@ -12,63 +13,50 @@ guid: 'https://atanar1.claudeserv.host/?page_id=196'
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 
- [  
+[  
  Try Demo ](#)  
  [  
  Speak with an Expert ](#)
 
 ###### What we Do
 
-## Cloud Threat Detection and Protections  
-
+## Cloud Threat Detection and Protections
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-   
-   
- ![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/Artboard-17.png)
+![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/Artboard-17.png)
 
-###  Cloud Edge Firewall 
+### Cloud Edge Firewall
 
 Facilisi interdum dis justo natoque purus placerat nec sociosqu mi tempus
 
-   
-   
- ![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/Artboard-19.png)
+![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/Artboard-19.png)
 
-###  SaaS Email Security 
+### SaaS Email Security
 
 Facilisi interdum dis justo natoque purus placerat nec sociosqu mi tempus
 
-   
-   
- ![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/Artboard-20.png)
+![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/Artboard-20.png)
 
-###  Cloud Security Posture Management 
+### Cloud Security Posture Management
 
 Facilisi interdum dis justo natoque purus placerat nec sociosqu mi tempus
 
-   
-   
- ![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/Artboard-15.png)
+![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/Artboard-15.png)
 
-###  Serverless Protection 
+### Serverless Protection
 
 Facilisi interdum dis justo natoque purus placerat nec sociosqu mi tempus
 
-   
-   
- ![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/Artboard-36.png)
+![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/Artboard-36.png)
 
-###  24/7 Threat Protection, Monitoring, and Response 
+### 24/7 Threat Protection, Monitoring, and Response
 
 Facilisi interdum dis justo natoque purus placerat nec sociosqu mi tempus
 
-   
-   
- ![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/Artboard-37.png)
+![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/Artboard-37.png)
 
-###  Cloud Workload Protection 
+### Cloud Workload Protection
 
 Facilisi interdum dis justo natoque purus placerat nec sociosqu mi tempus
 
@@ -93,7 +81,7 @@ Natoque ante vehicula vulputate id purus nibh placerat fusce inceptos. .
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 
- [  
+[  
  Contact Us  
  ](#)
 
@@ -111,7 +99,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 Interdum massa erat vivamus orci vitae finibus tempor suscipit vestibulum. Risus nullam class tincidunt vel nascetur efficitur mus luctus tellus purus torquent. Dis ac finibus tincidunt rhoncus augue dictumst euismod libero curae consequat torquent.
 
- ![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/lifestyle-beautiful-woman-in-the-office.jpg)  
+![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/lifestyle-beautiful-woman-in-the-office.jpg)  
  **Anita Dyer**  
  Manager Lokamart
 
@@ -123,7 +111,7 @@ Interdum massa erat vivamus orci vitae finibus tempor suscipit vestibulum. Risus
 
 Interdum massa erat vivamus orci vitae finibus tempor suscipit vestibulum. Risus nullam class tincidunt vel nascetur efficitur mus luctus tellus purus torquent. Dis ac finibus tincidunt rhoncus augue dictumst euismod libero curae consequat torquent.
 
- ![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/lifestyle-beautiful-woman-in-the-office.jpg)  
+![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/lifestyle-beautiful-woman-in-the-office.jpg)  
  **Anita Dyer**  
  Manager Lokamart
 
@@ -135,10 +123,9 @@ Interdum massa erat vivamus orci vitae finibus tempor suscipit vestibulum. Risus
 
 Interdum massa erat vivamus orci vitae finibus tempor suscipit vestibulum. Risus nullam class tincidunt vel nascetur efficitur mus luctus tellus purus torquent. Dis ac finibus tincidunt rhoncus augue dictumst euismod libero curae consequat torquent.
 
- ![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/lifestyle-beautiful-woman-in-the-office.jpg)  
+![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/lifestyle-beautiful-woman-in-the-office.jpg)  
  **Anita Dyer**  
  Manager Lokamart
-
 
 ###### FAQ
 
@@ -146,46 +133,37 @@ Interdum massa erat vivamus orci vitae finibus tempor suscipit vestibulum. Risus
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
- [  
- Posuere duis consectetur metus lectus?  
-   
-   
- ](#collapse-bb05c5f61fd16237267d)
+[  
+ Posuere duis consectetur metus lectus?
+
+](#collapse-bb05c5f61fd16237267d)
 
 Consequat habitant elementum dapibus nisl faucibus purus neque mus sem ex. Nibh commodo augue consectetuer hendrerit scelerisque leo malesuada amet risus etiam proin. Nulla lacinia pede himenaeos consequat nam facilisi placerat.
 
-   
- [  
- Cras himenaeos potenti elementum ridiculus conubia?  
-   
-   
- ](#collapse-16827e761fd16237267d)
+[  
+ Cras himenaeos potenti elementum ridiculus conubia?
+
+](#collapse-16827e761fd16237267d)
 
 Consequat habitant elementum dapibus nisl faucibus purus neque mus sem ex. Nibh commodo augue consectetuer hendrerit scelerisque leo malesuada amet risus etiam proin. Nulla lacinia pede himenaeos consequat nam facilisi placerat.
 
-   
- [  
- Tortor eleifend purus laoreet blandit donec?  
-   
-   
- ](#collapse-07f79f861fd16237267d)
+[  
+ Tortor eleifend purus laoreet blandit donec?
+
+](#collapse-07f79f861fd16237267d)
 
 Consequat habitant elementum dapibus nisl faucibus purus neque mus sem ex. Nibh commodo augue consectetuer hendrerit scelerisque leo malesuada amet risus etiam proin. Nulla lacinia pede himenaeos consequat nam facilisi placerat.
 
-   
- [  
- Per si diam tempus sollicitudin nullam?  
-   
-   
- ](#collapse-a6b85d661fd16237267d)
+[  
+ Per si diam tempus sollicitudin nullam?
+
+](#collapse-a6b85d661fd16237267d)
 
 Consequat habitant elementum dapibus nisl faucibus purus neque mus sem ex. Nibh commodo augue consectetuer hendrerit scelerisque leo malesuada amet risus etiam proin. Nulla lacinia pede himenaeos consequat nam facilisi placerat.
 
-   
- [  
- Tellus lacus vulputate a dis enim?  
-   
-   
- ](#collapse-56899be61fd16237267d)
+[  
+ Tellus lacus vulputate a dis enim?
+
+](#collapse-56899be61fd16237267d)
 
 Consequat habitant elementum dapibus nisl faucibus purus neque mus sem ex. Nibh commodo augue consectetuer hendrerit scelerisque leo malesuada amet risus etiam proin. Nulla lacinia pede himenaeos consequat nam facilisi placerat.

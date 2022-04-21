@@ -1,10 +1,11 @@
 ---
 id: 176
 title: Home
-date: '2022-02-03T20:10:19+00:00'
+date: "2022-02-03T20:10:19+00:00"
 author: admin
 layout: page
-guid: 'https://atanar1.claudeserv.host/?page_id=176'
+permalink: /home/
+guid: "https://atanar1.claudeserv.host/?page_id=176"
 ---
 
 <style>/*! elementor - v3.5.5 - 03-02-2022 */
@@ -16,7 +17,7 @@ guid: 'https://atanar1.claudeserv.host/?page_id=176'
 
 #### Atanar est distributeur, intégrateur et conseil de solutions performantes de Content Delivery Networks CDN.
 
- [  
+[  
  Try Demo ](#)  
  [  
  Discover More ](#)
@@ -24,46 +25,46 @@ guid: 'https://atanar1.claudeserv.host/?page_id=176'
 <style>/*! elementor - v3.5.5 - 03-02-2022 */
 .elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style> ![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/Robot_head.png)
 
-###  Cache CDN 
+### Cache CDN
 
 Facilisi interdum dis justo natoque purus placerat nec sociosqu mi tempus
 
- [  
+[  
  Learn more  
  ](#)
 
-###  Routage DNS 
+### Routage DNS
 
 Facilisi interdum dis justo natoque purus placerat nec sociosqu mi tempus
 
- [  
+[  
  Learn more  
  ](#)
 
-###  Audit CDN 
+### Audit CDN
 
 Facilisi interdum dis justo natoque purus placerat nec sociosqu mi tempus
 
- [  
+[  
  Learn more  
  ](#)
 
-###  Optimisation Front-End 
+### Optimisation Front-End
 
 Facilisi interdum dis justo natoque purus placerat nec sociosqu mi tempus
 
- [  
+[  
  Learn more  
  ](#) <link href="https://atanar1.claudeserv.host/wp-content/plugins/elementor-pro/assets/css/widget-animated-headline.min.css" rel="stylesheet"></link>
 
-##  Trusted by  
- 8,220+  
- world-class brands and organizations of all sizes.  
- 
+## Trusted by
+
+8,220+  
+ world-class brands and organizations of all sizes.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 
- ![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/utosia-2.png)  
+![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/utosia-2.png)  
  ![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/ideaa-1.png)  
  ![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/velocity-9.png)  
  ![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/earth-2.0-1.png)  
@@ -73,88 +74,85 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus 
  ![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/muzica.png)  
  ![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/solaytic.png)
 
-
 ###### Who We Are
 
-## Be perfectly Secure with us.  
-
+## Be perfectly Secure with us.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 
-###  The Idea 
+### The Idea
 
 Facilisi interdum dis justo natoque purus placerat nec sociosqu mi tempus
 
- ![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/exploring-virtual-reality-2.jpg)
+![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/exploring-virtual-reality-2.jpg)
 
 ###### What we offer
 
-##  All about security needs  
-
+## All about security needs
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-###  Cyber Security Consulting 
+### Cyber Security Consulting
 
 Facilisi interdum dis justo natoque purus placerat nec sociosqu mi tempus
 
- [  
+[  
  Learn more  
  ](#)
 
-###  Vulnerability Assessment 
+### Vulnerability Assessment
 
 Facilisi interdum dis justo natoque purus placerat nec sociosqu mi tempus
 
- [  
+[  
  Learn more  
  ](#)
 
-###  Secure IT Infrastructure 
+### Secure IT Infrastructure
 
 Facilisi interdum dis justo natoque purus placerat nec sociosqu mi tempus
 
- [  
+[  
  Learn more  
  ](#)
 
-###  Cloud Security 
+### Cloud Security
 
 Facilisi interdum dis justo natoque purus placerat nec sociosqu mi tempus
 
- [  
+[  
  Learn more  
  ](#)
 
-###  Prepare For CMMC Certification 
+### Prepare For CMMC Certification
 
 Facilisi interdum dis justo natoque purus placerat nec sociosqu mi tempus
 
- [  
+[  
  Learn more  
  ](#)
 
-###  Security Monitoring 
+### Security Monitoring
 
 Facilisi interdum dis justo natoque purus placerat nec sociosqu mi tempus
 
- [  
+[  
  Learn more  
  ](#)
 
-###  Data Science 
+### Data Science
 
 Facilisi interdum dis justo natoque purus placerat nec sociosqu mi tempus
 
- [  
+[  
  Learn more  
  ](#)
 
-###  Big Data 
+### Big Data
 
 Facilisi interdum dis justo natoque purus placerat nec sociosqu mi tempus
 
- [  
+[  
  Learn more  
  ](#)  
  ![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/rear-view-of-hacker-in-front-of-computer-with-multiple-screens.jpg)
@@ -165,15 +163,15 @@ Facilisi interdum dis justo natoque purus placerat nec sociosqu mi tempus
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-###  Money Back Guarantee 
+### Money Back Guarantee
 
 Consectetuer donec feugiat fringilla per quis risus lobortis sodales habitant ante
 
-###  SSL Secure Payment 
+### SSL Secure Payment
 
 Consectetuer donec feugiat fringilla per quis risus lobortis sodales habitant ante
 
-###  Accepted Payment Methods 
+### Accepted Payment Methods
 
 Consectetuer donec feugiat fringilla per quis risus lobortis sodales habitant ante
 
@@ -198,7 +196,7 @@ Natoque ante vehicula vulputate id purus nibh placerat fusce inceptos. .
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 
- [  
+[  
  Contact Us  
  ](#)
 
@@ -216,7 +214,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 Interdum massa erat vivamus orci vitae finibus tempor suscipit vestibulum. Risus nullam class tincidunt vel nascetur efficitur mus luctus tellus purus torquent. Dis ac finibus tincidunt rhoncus augue dictumst euismod libero curae consequat torquent.
 
- ![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/lifestyle-beautiful-woman-in-the-office.jpg)  
+![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/lifestyle-beautiful-woman-in-the-office.jpg)  
  **Anita Dyer**  
  Manager Lokamart
 
@@ -228,7 +226,7 @@ Interdum massa erat vivamus orci vitae finibus tempor suscipit vestibulum. Risus
 
 Interdum massa erat vivamus orci vitae finibus tempor suscipit vestibulum. Risus nullam class tincidunt vel nascetur efficitur mus luctus tellus purus torquent. Dis ac finibus tincidunt rhoncus augue dictumst euismod libero curae consequat torquent.
 
- ![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/lifestyle-beautiful-woman-in-the-office.jpg)  
+![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/lifestyle-beautiful-woman-in-the-office.jpg)  
  **Anita Dyer**  
  Manager Lokamart
 
@@ -240,15 +238,14 @@ Interdum massa erat vivamus orci vitae finibus tempor suscipit vestibulum. Risus
 
 Interdum massa erat vivamus orci vitae finibus tempor suscipit vestibulum. Risus nullam class tincidunt vel nascetur efficitur mus luctus tellus purus torquent. Dis ac finibus tincidunt rhoncus augue dictumst euismod libero curae consequat torquent.
 
- ![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/lifestyle-beautiful-woman-in-the-office.jpg)  
+![](https://atanar1.claudeserv.host/wp-content/uploads/2022/02/lifestyle-beautiful-woman-in-the-office.jpg)  
  **Anita Dyer**  
  Manager Lokamart
-
 
 ###### Latest Update
 
 ### Insight
 
- [  
+[  
  More Article  
  ](#)
